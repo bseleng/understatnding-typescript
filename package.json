@@ -1,0 +1,16 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "description": "Max's TS course",
+  "main": "app.js",
+  "dependencies": {
+    "prettier": "^2.3.0",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bseleng",
+  "license": "ISC"
+}
