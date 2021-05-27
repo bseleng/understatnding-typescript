@@ -7,9 +7,12 @@
     "prettier": "^2.3.0",
     "typescript": "^4.3.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "author": "bseleng",
   "license": "ISC"
